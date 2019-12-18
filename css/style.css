@@ -1,0 +1,15 @@
+.movie{
+    cursor: pointer;
+}
+ 
+.movie:hover {
+    color:blue;
+}
+
+.container, .h1{
+    font-family: 'Girassol', cursive;
+}
+
+.loading{
+    width:50px;
+}
